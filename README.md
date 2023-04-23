@@ -1,5 +1,5 @@
 A basic student registration app.
-To run the app, run 'npm i' on client and server folders , then using command 'npm run client' and 'npm run server' on saperate terminatals in parent folder, you can run the app.
+To run the app, run 'npm i' on client and server folders , then using commands 'npm run client' and 'npm run server' on saperate terminatals in parent folder, you can run the app.
 
 
 
